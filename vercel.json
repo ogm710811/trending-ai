@@ -9,7 +9,7 @@
       "schedule": "0 */1 * * *"
     },
     {
-      "path": "/api/continuation",
+      "path": "/api/continue-tweets",
       "schedule": "15 */1 * * *"
     }
   ]
