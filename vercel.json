@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/trending",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/tweets",
+      "schedule": "30 * * * *"
+    },
+    {
+      "path": "/api/continue-tweets",
+      "schedule": "45 * * * *"
+    }
+  ]
+}
