@@ -1,7 +1,7 @@
 {
   "crons": [
     {
-      "path": "/api/trending",
+      "path": "/api/trends",
       "schedule": "0 */3 * * *"
     },
     {
